@@ -1,6 +1,3 @@
-
-
-
 // Step 1- Create an expressjs server
 const express = require('express');
 const path = require('path');
